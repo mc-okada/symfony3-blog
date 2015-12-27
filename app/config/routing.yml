@@ -1,6 +1,6 @@
-my_blog:
+blog:
     resource: "@MyBlogBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /blog
 
 app:
     resource: "@AppBundle/Controller/"
